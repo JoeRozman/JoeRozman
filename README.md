@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Joey and I am a computer science student at Worcester Polytechnic Institute.
+My name is Joey and I am a computer science student at Worcester Polytechnic Institute!
 
 Some of my interests are:
 
